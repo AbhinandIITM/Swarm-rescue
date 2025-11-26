@@ -1,0 +1,2 @@
+pip install e .
+python3 src/swarm_rescue/launcher.py --config config/intermediate0.yml
